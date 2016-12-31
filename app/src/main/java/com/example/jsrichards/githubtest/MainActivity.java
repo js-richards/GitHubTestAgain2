@@ -18,3 +18,5 @@ public class MainActivity extends AppCompatActivity {
 
 
 //This line of comment was edited usin the GitHub website!!
+
+//Comment line here is conducted after the first edit was "merged"
